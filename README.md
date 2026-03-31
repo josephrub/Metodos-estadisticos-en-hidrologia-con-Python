@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Repositorio oficial del **Capítulo VI** del libro *Métodos estadísticos en hidrología con Python: análisis de precipitaciones extremas*. Contiene el Jupyter Notebook interactivo y los datos de entrada necesarios para reproducir el análisis estadístico completo de precipitaciones extremas para cualquier estación hidrometeorológica.
 
@@ -123,6 +123,20 @@ Este repositorio es el material complementario del libro:
 ## 📬 Contacto y soporte
 
 ¿Tienes dudas o encontraste algún error? Abre un [Issue](https://github.com/josephrub/Metodos-estadisticos-en-hidrologia-con-Python/issues) en este repositorio.
-scipy>=1.10
-pandas>=2.0
-openpyxl>=3.1
+
+---
+
+## 📄 Licencia
+
+Este material está publicado bajo la licencia **Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**.
+
+Esto significa que puedes:
+- ✅ Usar y ejecutar el notebook libremente
+- ✅ Compartir y redistribuir el material
+- ✅ Adaptar y modificar el código para tus propios análisis
+
+Siempre que:
+- 📌 Cites al autor original
+- 🚫 No uses el material con fines comerciales sin autorización expresa
+
+Más información: https://creativecommons.org/licenses/by-nc/4.0/deed.es
