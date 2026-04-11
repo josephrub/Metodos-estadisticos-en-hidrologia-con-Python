@@ -87,7 +87,7 @@ Cada estación debe estar en un archivo `.xlsx` dentro de la carpeta `ESTACIONES
 
 | Año | Enero | Febrero | ... | Diciembre |
 |-----|-------|---------|-----|-----------|
-| 2006 | " " | 28.0 | ... | 40.0 |
+| 2006 | ` ` | 28.0 | ... | 40.0 |
 | 2007 | 33.0 | 35.0 | ... | 28.0 |
 
 > Los valores no disponibles deben registrarse como ` `.  
