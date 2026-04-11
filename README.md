@@ -87,12 +87,12 @@ Cada estación debe estar en un archivo `.xlsx` dentro de la carpeta `ESTACIONES
 
 | Año | Enero | Febrero | ... | Diciembre |
 |-----|-------|---------|-----|-----------|
-| 1990 | 12.5 | 8.3 | ... | 15.2 |
-| 1991 | S/D | 10.1 | ... | 9.8 |
+| 2006 |  | 28.0 | ... | 40.0 |
+| 2007 | 33.0 | 35.0 | ... | 28.0 |
 
-> Los valores no disponibles deben registrarse como `S/D`.  
+> Los valores no disponibles deben registrarse como ``.  
 > El nombre del archivo debe seguir el formato: `NOMBRE_CATEGORIA.xlsx`  
-> Ejemplo: `LAREDO_PP.xlsx`, `CANTA_CO.xlsx`
+> Ejemplo: `OXAPAMPA_CO.xlsx`, `YANTAC_CO.xlsx`
 
 ---
 
