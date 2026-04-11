@@ -14,12 +14,12 @@ Repositorio oficial del **Capítulo VI** del libro *Métodos estadísticos en hi
 ├── CÓDIGO/
 │   └── Análisis_Estadístico.ipynb     # Notebook principal
 ├── ESTACIONES_PROCESADAS/             # Archivos Excel de entrada por estación
-│   ├── ESTACION_1_PP.xlsx
-│   ├── ESTACION_2_PP.xlsx
+│   ├── ESTACION1_CO.xlsx
+│   ├── ESTACION2_CO.xlsx
 │   └── ...
 ├── OUTPUTS/                           # Resultados generados por el notebook
-│   ├── ANALISIS_ESTACION_1_PP/
-│   │   ├── ANALISIS_ESTADISTICO_ESTACION_1.xlsx
+│   ├── ANALISIS_ESTACION1_CO/
+│   │   ├── ANALISIS_ESTADISTICO_ESTACION1.xlsx
 │   │   ├── Distribucion_Normal.pdf
 │   │   ├── Curvas_IDF.pdf
 │   │   └── ...
