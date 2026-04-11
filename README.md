@@ -59,8 +59,6 @@ El notebook está diseñado para ejecutarse **celda por celda de forma secuencia
 | `n_obs` | Número de observaciones diarias del pluviómetro | `1` |
 | `nivel_significacion` | Nivel de significación para la prueba K-S | `0.05` |
 
-> 💡 **Tip:** Clona o descarga este repositorio completo y apunta `direccion` y `carpeta_salida` a las carpetas `ESTACIONES_PROCESADAS/` y `OUTPUTS/` descargadas.
-
 ---
 
 ## 📊 ¿Qué hace el notebook?
