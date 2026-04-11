@@ -12,7 +12,7 @@ Repositorio oficial del **Capítulo VI** del libro *Métodos estadísticos en hi
 ## 📁 Estructura del repositorio
 ```
 ├── CÓDIGO/
-│   └── Análisis_Estadístico.ipynb     # Notebook principal
+│   └── Análisis Estadístico.ipynb     # Notebook principal
 ├── ESTACIONES_PROCESADAS/             # Archivos Excel de entrada por estación
 │   ├── ESTACION1_CO.xlsx
 │   ├── ESTACION2_CO.xlsx
@@ -44,7 +44,7 @@ Se recomienda usar **Visual Studio Code** con la extensión de Jupyter:
 
 1. Descarga VS Code: https://code.visualstudio.com/
 2. Instala la extensión **Jupyter** desde el Marketplace
-3. Abre el archivo `Análisis_Estadístico.ipynb` desde la carpeta `CÓDIGO/`
+3. Abre el archivo `Análisis Estadístico.ipynb` desde la carpeta `CÓDIGO/`
 
 ---
 
